@@ -1,4 +1,4 @@
-Logistic Regression Tutorial - Reserach Guideline
+Logistic Regression Tutorial - Research Guideline
 ================
 Gunho Lee
 2021 3 10
