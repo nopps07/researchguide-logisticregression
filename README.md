@@ -83,7 +83,7 @@ websites, you might have encountered red & white variants of the
 Portuguese “Vinho Verde” wine.
 [link](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
-## Exploratory Distribution Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Before looking up the overview of the data, let’s first import it\!\!
 
